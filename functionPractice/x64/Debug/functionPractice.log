@@ -1,0 +1,3 @@
+﻿  functionPractice.cpp
+C:\Users\moebu\OneDrive\Documents\Programming\C++\functionPractice\functionPractice.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  functionPractice.vcxproj -> C:\Users\moebu\OneDrive\Documents\Programming\C++\functionPractice\x64\Debug\functionPractice.exe
